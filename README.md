@@ -12,7 +12,7 @@
 <p>- React.js, Next.js, Material UI, Tailwind CSS, SASS </p>
 
 <h3>Other</h3>
-<p>- Github, Mail Chimp, Contentful</p>
+<p>- Git, Mail Chimp, Contentful</p>
 
 <h3>Programs</h3>
 <p>- Figma, Photoshop, Trello </p>
